@@ -9,7 +9,7 @@ The primary goal of this file is to demonstrate a simple python program to class
 @author: rk
 """
 
-def classify_triangle(a, b, c):
+def classify_Triangle(a, b, c):
     """
     This function returns a string with the type of triangle from three integer values
     corresponding to the lengths of the three sides of the triangle.
