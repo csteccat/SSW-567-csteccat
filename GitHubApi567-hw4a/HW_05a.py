@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, Mock
-from HW_04a import GitHub_Repositories
+from HW_04 import GitHub_Repositories
 
 class TestGitHubRepositories(unittest.TestCase):
 
